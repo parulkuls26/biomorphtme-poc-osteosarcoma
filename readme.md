@@ -1,4 +1,15 @@
----
+### What is BioMorph-TME?
+
+BioMorph-TME is a proposed multimodal framework that aims to learn tumour ecosystem states by integrating morphology-derived embeddings with spatial transcriptomics. It combines foundation model representations from Cell Painting and digital pathology with spatial measurements of cell states, signalling networks, and tissue architecture. Through contrastive learning, BioMorph-TME seeks to align morphology with underlying tumour biology and cell–cell communication programs. The framework incorporates active learning and experimental validation in a lab-in-the-loop setting. Ultimately, BioMorph-TME aims to create a scalable morphology-based representation space for studying tumour ecosystems, therapeutic response, and disease evolution.
+
+### Why it may be relevant to morphology foundation models
+
+* **Extends morphology from single-cell phenotypes to ecosystem biology** by incorporating immune, stromal, and tumour interactions that are largely absent from current Cell Painting resources.
+
+* **Provides biological supervision for morphology embeddings** through spatial transcriptomics, ligand–receptor communication networks, and pathway activity programs, improving interpretability of learned representations.
+
+* **Enables scalable tumour microenvironment profiling** by learning morphology signatures associated with spatially defined ecosystem states, potentially reducing reliance on expensive spatial transcriptomic assays.
+
 
 ## Dataset
 

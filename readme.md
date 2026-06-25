@@ -10,6 +10,11 @@ BioMorph-TME is a proposed multimodal framework that aims to learn tumour ecosys
 
 * **Enables scalable tumour microenvironment profiling** by learning morphology signatures associated with spatially defined ecosystem states, potentially reducing reliance on expensive spatial transcriptomic assays.
 
+## Repository Contents
+
+- BioMorph-TME framework infographic (PNG) illustrating the proposed multimodal learning architecture.
+- Proof-of-concept (PoC) report (PDF) demonstrating initial analyses using the longitudinal osteosarcoma dataset.
+
 
 ## Dataset
 
